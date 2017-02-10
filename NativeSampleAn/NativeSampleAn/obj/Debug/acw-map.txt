@@ -1,0 +1,4 @@
+NativeSampleAn.MainActivity, NativeSampleAn;md5f420c6f854d221c69b6e696c944877a7.MainActivity
+NativeSampleAn.MainActivity, NativeSampleAn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f420c6f854d221c69b6e696c944877a7.MainActivity
+NativeSampleAn.MainActivity;md5f420c6f854d221c69b6e696c944877a7.MainActivity
+nativesamplean.MainActivity;md5f420c6f854d221c69b6e696c944877a7.MainActivity

@@ -1,0 +1,14 @@
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.iOS.exe
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.iOS.pdb
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.dll
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.pdb
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\optimized\
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\CPNativeNoForm.iOS.csprojResolveAssemblyReference.cache
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\CPNativeNoForm.iOS.exe
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\CPNativeNoForm.iOS.pdb
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.dll.mdb
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\obj\iPhone\Debug\CPNativeNoForm.iOS.exe.mdb
+C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.iOS\bin\iPhone\Debug\CPNativeNoForm.iOS.exe.mdb

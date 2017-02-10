@@ -1,0 +1,4 @@
+CPNativeNoForm.Droid.MainActivity, CPNativeNoForm.Droid;md5153917b688e611682e166e47b0f6f595.MainActivity
+CPNativeNoForm.Droid.MainActivity, CPNativeNoForm.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5153917b688e611682e166e47b0f6f595.MainActivity
+CPNativeNoForm.Droid.MainActivity;md5153917b688e611682e166e47b0f6f595.MainActivity
+cpnativenoform.droid.MainActivity;md5153917b688e611682e166e47b0f6f595.MainActivity

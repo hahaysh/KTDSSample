@@ -1,0 +1,14 @@
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\CPForms.pdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\obj\Debug\CPForms.pdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb

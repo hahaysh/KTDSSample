@@ -1,0 +1,2 @@
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.WinPhone\CPNativeNoForm.WinPhone.csproj;neutral
+c:\users\hahaysh\documents\visual studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.csproj;neutral
