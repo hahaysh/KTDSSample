@@ -8,9 +8,9 @@
            VerticalOptions="Center"
            HorizontalOptions="Center"
          >
-    <label.textcolor>
+    <!--<label.textcolor>
         <onplatform x:typearguments="color" android="black" winphone="#51c0d4" ios="red"></onplatform>
-    </label.textcolor>
+    </label.textcolor>-->
   </Label>
 
 </ContentPage>
