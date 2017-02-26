@@ -15,5 +15,17 @@ c:\users\hahaysh\documents\visual studio 2015\Projects\CPFormsXaml\CPFormsXaml\C
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.csprojResolveAssemblyReference.cache
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll.mdb
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.dll.mdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.dll
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.MainPage.xaml.g.cs
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.App.xaml.g.cs
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.pdb

@@ -4,13 +4,13 @@
              xmlns:local="clr-namespace:CPFormsXaml"
              x:Class="CPFormsXaml.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Welcome to Xamarin Forms! Nice~!"
            VerticalOptions="Center"
            HorizontalOptions="Center"
          >
-    <Label.TextColor>
-        <OnPlatform x:TypeArguments="Color" Android="Black" WinPhone="#51C0D4" iOS="Red"></OnPlatform>
-    </Label.TextColor>
+    <label.textcolor>
+        <onplatform x:typearguments="color" android="black" winphone="#51c0d4" ios="red"></onplatform>
+    </label.textcolor>
   </Label>
 
 </ContentPage>
