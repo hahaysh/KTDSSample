@@ -29,3 +29,8 @@ C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\o
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.App.xaml.g.cs
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.csprojResolveAssemblyReference.cache
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll.mdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.dll.mdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\obj\Debug\CPFormsXaml.dll.mdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\bin\Debug\CPFormsXaml.dll.mdb

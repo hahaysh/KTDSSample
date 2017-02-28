@@ -77,5 +77,6 @@ C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.i
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\obj\iPhoneSimulator\Debug\CPFormsXaml.iOS.csprojResolveAssemblyReference.cache
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\obj\iPhoneSimulator\Debug\CPFormsXaml.iOS.exe
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\obj\iPhoneSimulator\Debug\CPFormsXaml.iOS.pdb
+C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\bin\iPhoneSimulator\Debug\CPFormsXaml.dll.mdb
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\obj\iPhoneSimulator\Debug\CPFormsXaml.iOS.exe.mdb
 C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.iOS\bin\iPhoneSimulator\Debug\CPFormsXaml.iOS.exe.mdb
