@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="CPNativeNoForm.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CPNativeNoForm.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="btnClick" Content="Hello World, Click Me!" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="2.841,3.008" Click="Button_Click" Background="{x:Null}"/>
+
+    </Grid>
+</Page>
