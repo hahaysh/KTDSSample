@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Foxconn TG-L800S</SelectedDevice>
     <DefaultDevice>5" KitKat %284.4%29 XXHDPI Phone</DefaultDevice>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>

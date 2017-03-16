@@ -2,7 +2,7 @@
 <Sdk>
   <AndroidApiLevel>25</AndroidApiLevel>
   <AndroidApiLevelName>25</AndroidApiLevelName>
-  <AndroidNdkPath>C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r13b</AndroidNdkPath>
+  <AndroidNdkPath>C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r13b</AndroidNdkPath>
   <AndroidSdkBuildToolsPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.3</AndroidSdkBuildToolsPath>
   <AndroidSdkBuildToolsBinPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.3</AndroidSdkBuildToolsBinPath>
   <AndroidSdkPath>C:\Program Files (x86)\Android\android-sdk</AndroidSdkPath>

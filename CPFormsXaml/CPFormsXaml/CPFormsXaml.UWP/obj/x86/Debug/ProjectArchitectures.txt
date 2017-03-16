@@ -1,2 +1,2 @@
-C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.UWP\CPFormsXaml.UWP.csproj;x86
-C:\Users\hahay\Documents\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\CPFormsXaml.csproj;neutral
+D:\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml.UWP\CPFormsXaml.UWP.csproj;x86
+D:\GitHub\KTDSSample\CPFormsXaml\CPFormsXaml\CPFormsXaml\CPFormsXaml.csproj;neutral

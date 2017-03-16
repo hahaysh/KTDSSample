@@ -4,15 +4,8 @@ c:\users\hahaysh\documents\visual studio 2015\Projects\CPNativeNoForm\CPNativeNo
 c:\users\hahaysh\documents\visual studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.pdb
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll.mdb
+D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.dll
+D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\bin\Debug\CPNativeNoForm.pdb
+D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.csprojResolveAssemblyReference.cache
+D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.dll
+D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\obj\Debug\CPNativeNoForm.pdb

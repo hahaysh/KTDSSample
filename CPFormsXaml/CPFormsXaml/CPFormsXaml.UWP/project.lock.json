@@ -15806,16 +15806,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\hahay\\Documents\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\CPFormsXaml.UWP.csproj",
+      "projectUniqueName": "D:\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\CPFormsXaml.UWP.csproj",
       "projectName": "CPFormsXaml.UWP",
-      "projectPath": "C:\\Users\\hahay\\Documents\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\CPFormsXaml.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\hahay\\Documents\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\project.json",
+      "projectPath": "D:\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\CPFormsXaml.UWP.csproj",
+      "projectJsonPath": "D:\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\hahay\\Documents\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.csproj": {
-              "projectPath": "C:\\Users\\hahay\\Documents\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.csproj"
+            "D:\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.csproj": {
+              "projectPath": "D:\\GitHub\\KTDSSample\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml\\CPFormsXaml.csproj"
             }
           }
         }
