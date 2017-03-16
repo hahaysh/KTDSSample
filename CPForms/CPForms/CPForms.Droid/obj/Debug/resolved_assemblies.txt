@@ -1,44 +1,53 @@
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\CPForms.Droid.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\CPForms.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\FormsViewGroup.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Java.Interop.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Mono.Android.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\mscorlib.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Core.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Collections.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ObjectModel.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Globalization.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ComponentModel.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Reflection.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.IO.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Threading.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Linq.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\CPForms.Droid.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\CPForms.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Transition.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Java.Interop.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\Mono.Android.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\mscorlib.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Core.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Collections.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ObjectModel.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Globalization.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ComponentModel.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Reflection.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.IO.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Threading.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Linq.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Net.Http.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll

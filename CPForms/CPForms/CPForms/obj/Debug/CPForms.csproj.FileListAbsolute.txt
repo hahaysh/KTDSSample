@@ -12,3 +12,30 @@ c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\o
 c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\obj\Debug\CPForms.pdb
 c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
 c:\users\hahaysh\documents\visual studio 2015\Projects\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.pdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Platform.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.pdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Core.xml
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.pdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.csprojResolveAssemblyReference.cache
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\obj\Debug\CPForms.dll.mdb
+D:\GitHub\KTDSSample\CPForms\CPForms\CPForms\bin\Debug\CPForms.dll.mdb
