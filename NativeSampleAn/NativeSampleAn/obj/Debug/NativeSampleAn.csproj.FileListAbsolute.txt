@@ -36,4 +36,17 @@ c:\users\hahaysh\documents\visual studio 2015\Projects\NativeSampleAn\NativeSamp
 c:\users\hahaysh\documents\visual studio 2015\Projects\NativeSampleAn\NativeSampleAn\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 c:\users\hahaysh\documents\visual studio 2015\Projects\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.csprojResolveAssemblyReference.cache
 C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.dll.mdb
-C:\Users\hahaysh\Documents\Visual Studio 2015\Projects\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.dll.mdb
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.dll
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.pdb
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.NativeSampleAn.apk
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.NativeSampleAn-Signed.apk
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.dll
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.pdb
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\android\bin\NativeSampleAn.NativeSampleAn.apk
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\res\layout\main.xml
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\res\values\strings.xml
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\res\drawable\icon.png
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\R.cs.flag
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\uploadflags.txt
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.dll.mdb
+D:\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.dll.mdb

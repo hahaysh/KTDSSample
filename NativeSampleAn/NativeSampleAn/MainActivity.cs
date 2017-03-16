@@ -63,8 +63,15 @@ namespace NativeSampleAn
 
         private async void BtnDownload_Click(object sender, EventArgs e)
         {
-            HttpClient client = new HttpClient();
-            txtView.Text = await client.GetStringAsync("http://m.google.com");
+            try
+            {
+                HttpClient client = new HttpClient();
+                txtView.Text = await client.GetStringAsync("http://m.google.com");
+            }
+            catch (Exception ex)
+            {
+                throw ex; // new Exception(ex.ToString());
+            }
         }
 
         private void BtnNotify_Click(object sender, EventArgs e)
@@ -92,7 +99,7 @@ namespace NativeSampleAn
         private void Button_Click(object sender, EventArgs e)
         {
             Intent callIntent = new Intent(Intent.ActionCall);
-            callIntent.SetData(Android.Net.Uri.Parse("tel:031-413-7958"));
+            callIntent.SetData(Android.Net.Uri.Parse("tel:02-123-4567"));
             StartActivity(callIntent);
         }
 
