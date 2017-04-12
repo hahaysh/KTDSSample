@@ -1,2 +1,2 @@
-D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.UWP\CPNativeNoForm.UWP.csproj;x86
-D:\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.csproj;neutral
+C:\Users\hahaysh\Documents\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.UWP\CPNativeNoForm.UWP.csproj;x86
+C:\Users\hahaysh\Documents\GitHub\KTDSSample\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm\CPNativeNoForm.csproj;neutral

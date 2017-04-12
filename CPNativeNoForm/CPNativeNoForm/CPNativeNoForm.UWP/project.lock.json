@@ -17283,7 +17283,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.0.1": {
-      "sha512": "VDgl7UJulUQgby9jxjB67/VQFq0eGYY1OTnszbnaOEiEctRIJXPhqj47UGpuGuGDn0aInckxmMm2qJrIQfBr+g==",
+      "sha512": "hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.0.1",
       "files": [
@@ -17320,7 +17320,7 @@
       ]
     },
     "System.Collections.Specialized/4.0.1": {
-      "sha512": "y3phHosd/HxEPcdW3V+R4yp9jb7j8/XX6miHh1s70SMO3UNcuLgOcDm9W59rKRir+9AgfgY8ZFY78w/+IySRTA==",
+      "sha512": "/HKQyVP0yH1I0YtK7KJL/28snxHNH/bi+0lgk/+MbURF6ULhAE31MDI+NZDerNWu264YbxklXCCygISgm+HMug==",
       "type": "package",
       "path": "system.collections.specialized/4.0.1",
       "files": [
@@ -17559,7 +17559,7 @@
       ]
     },
     "System.Data.Common/4.1.0": {
-      "sha512": "gUkLcNvbIC+2kKac9S68sXG1NHcG6aGtgxamqba2/VLW0TdcMIp3vK/c2q3MMJuU5k3jkXC5wliNs6o3JAQj4Q==",
+      "sha512": "epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
       "type": "package",
       "path": "system.data.common/4.1.0",
       "files": [
@@ -17608,7 +17608,7 @@
       ]
     },
     "System.Diagnostics.Contracts/4.0.1": {
-      "sha512": "/J3mLHBWd9tYMqN4alFrxUDQwByfyuEH8s1sM7SVcKO3we0qWicH9xhJHbbjiyUyaVRpIHdcEHVPX+v8UTlwCg==",
+      "sha512": "HvQQjy712vnlpPxaloZYkuE78Gn353L0SJLJVeLcNASeg9c4qla2a1Xq8I7B3jZoDzKPtHTkyVO7AZ5tpeQGuA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.0.1",
       "files": [
@@ -19196,7 +19196,7 @@
       ]
     },
     "System.Net.WebSockets/4.0.0": {
-      "sha512": "QIyJaLttd2FEeEzF9yGdDWZkY/LU3jzBBzaQ7tZhlHmy0iYVjC912Kg5VV8SrHjfLSikIDqVydyCZ/Z8i30R4w==",
+      "sha512": "2KJo8hir6Edi9jnMDAMhiJoI691xRBmKcbNpwjrvpIMOCTYOtBpSsSEGBxBDV7PKbasJNaFp1+PZz1D7xS41Hg==",
       "type": "package",
       "path": "system.net.websockets/4.0.0",
       "files": [
@@ -20359,7 +20359,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "mYy27leP8guvozXDNgXy58YlK41iDZRr738wZBYs48GX8FUv5HQxTK7etO+kQbtxt6C2uG28WGgCdGLPFp8mZA==",
+      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
@@ -21984,20 +21984,20 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hahay\\.nuget\\packages\\": {}
+    "C:\\Users\\hahaysh\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\CPNativeNoForm.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\hahaysh\\Documents\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\CPNativeNoForm.UWP.csproj",
       "projectName": "CPNativeNoForm.UWP",
-      "projectPath": "D:\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\CPNativeNoForm.UWP.csproj",
-      "projectJsonPath": "D:\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\project.json",
+      "projectPath": "C:\\Users\\hahaysh\\Documents\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\CPNativeNoForm.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\hahaysh\\Documents\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "D:\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.csproj": {
-              "projectPath": "D:\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.csproj"
+            "C:\\Users\\hahaysh\\Documents\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.csproj": {
+              "projectPath": "C:\\Users\\hahaysh\\Documents\\GitHub\\KTDSSample\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm\\CPNativeNoForm.csproj"
             }
           }
         }
