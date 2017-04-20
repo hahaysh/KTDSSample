@@ -106,18 +106,13 @@ namespace NativeSampleAn
 
         private void BtnViewMap_Click(object sender, EventArgs e)
         {
-            ////map
-            ////var mapUri = Android.Net.Uri.Parse("geo:37.2485813,127.4828382");
+            //map
+            //var mapUri = Android.Net.Uri.Parse("geo:37.2485813,127.4828382");
 
-            ////street view
-            //var mapUri = Android.Net.Uri.Parse("google.streetview:cbll=37.575118,126.977069&cbp=1,90,,0,1.0&mz=20");
+            //street view
+            var mapUri = Android.Net.Uri.Parse("google.streetview:cbll=37.575118,126.977069&cbp=1,90,,0,1.0&mz=20");
 
-            //Intent mapIntent = new Intent(Intent.ActionView, mapUri);
-            //StartActivity(mapIntent);
-            //Finish();
-
-            var geoUri = Android.Net.Uri.Parse("geo:42.374260,-71.120824");
-            var mapIntent = new Intent(Intent.ActionView, geoUri);
+            Intent mapIntent = new Intent(Intent.ActionView, mapUri);
             StartActivity(mapIntent);
 
         }

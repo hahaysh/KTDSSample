@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <SelectedDevice>Foxconn TG-L800S</SelectedDevice>
+    <SelectedDevice>AVD_for_Nexus_4_by_Google_24</SelectedDevice>
     <DefaultDevice>AVD_for_Nexus_4_by_Google_24</DefaultDevice>
   </PropertyGroup>
 </Project>
