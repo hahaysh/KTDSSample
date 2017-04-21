@@ -65,6 +65,7 @@ namespace NativeSampleAn
         {
             try
             {
+                imgResult.Visibility = Android.Views.ViewStates.Gone;
                 HttpClient client = new HttpClient();
                 txtView.Text = await client.GetStringAsync("http://m.google.com");
             }
@@ -160,8 +161,8 @@ namespace NativeSampleAn
             //Intent cameraIntent = new Intent(MediaStore.ActionImageCapture);
             Intent cameraIntent = new Intent(MediaStore.ActionImageCapture);
 
-            if(cameraIntent.ResolveActivity(PackageManager) != null)
-            StartActivityForResult(cameraIntent, CAMERA);
+            if (cameraIntent.ResolveActivity(PackageManager) != null)
+                StartActivityForResult(cameraIntent, CAMERA);
         }
 
         public void OnInit([GeneratedEnum] OperationResult status)
@@ -180,7 +181,6 @@ namespace NativeSampleAn
                         var matches = data.GetStringArrayListExtra(RecognizerIntent.ExtraResults);
                         if (matches.Count != 0)
                         {
-                            txtView.Text = string.Empty;
                             foreach (var item in matches)
                             {
                                 txtView.Text += item + "\n\r";

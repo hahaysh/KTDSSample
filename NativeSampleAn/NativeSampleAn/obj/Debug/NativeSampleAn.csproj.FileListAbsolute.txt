@@ -87,5 +87,7 @@ C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\D
 C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\res\layout\layout1.xml
+C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\res\drawable\suzi.png
 C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\obj\Debug\NativeSampleAn.dll.mdb
 C:\Users\hahaysh\Documents\GitHub\KTDSSample\NativeSampleAn\NativeSampleAn\bin\Debug\NativeSampleAn.dll.mdb
