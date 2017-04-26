@@ -4,5 +4,6 @@
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
     <SelectedDevice>AVD_for_Nexus_6_by_Google</SelectedDevice>
     <DefaultDevice>AVD_for_Nexus_6_by_Google</DefaultDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
