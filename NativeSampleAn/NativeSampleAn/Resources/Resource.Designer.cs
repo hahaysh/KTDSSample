@@ -64,34 +64,7 @@ namespace NativeSampleAn
 		{
 			
 			// aapt resource value: 0x7f050000
-			public const int btnCallHome = 2131034112;
-			
-			// aapt resource value: 0x7f050006
-			public const int btnCamera = 2131034118;
-			
-			// aapt resource value: 0x7f050002
-			public const int btnDownloadWeb = 2131034114;
-			
-			// aapt resource value: 0x7f050005
-			public const int btnListen = 2131034117;
-			
-			// aapt resource value: 0x7f050001
-			public const int btnNotify = 2131034113;
-			
-			// aapt resource value: 0x7f050004
-			public const int btnSpeak = 2131034116;
-			
-			// aapt resource value: 0x7f050003
-			public const int btnViewMap = 2131034115;
-			
-			// aapt resource value: 0x7f050007
-			public const int imgResult = 2131034119;
-			
-			// aapt resource value: 0x7f050009
-			public const int scrollView1 = 2131034121;
-			
-			// aapt resource value: 0x7f050008
-			public const int textView = 2131034120;
+			public const int btnCallMe = 2131034112;
 			
 			static Id()
 			{
